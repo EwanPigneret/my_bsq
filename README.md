@@ -56,10 +56,10 @@ In order to use the program, you need to call it with a file. The format of the 
 
 Exemple :
 ```
-$> ./my_bsq map10x10.txt
+./my_bsq map10x10.txt
 ```
 
 If you need to compile the code, you can do so by using the following command :
 ```
-$> make
+make
 ``` 
