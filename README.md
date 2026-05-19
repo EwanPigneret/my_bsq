@@ -49,7 +49,7 @@ Finally, the array is printed in the terminal. The -1 is a 'x' character, to sho
 that shows the other free spaces left. 
 
 ## Installation
-I didn't have any installation to do.
+You need gcc in order to build the program.
 
 ## Usage
 In order to use the program, you need to call it with a file. The format of the name of the file needs to be "mapXxY.txt", were X and Y are the dimension of the map.
